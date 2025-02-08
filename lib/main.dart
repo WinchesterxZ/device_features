@@ -1,6 +1,4 @@
-import 'package:device_fatures/gallary_sceen.dart';
 import 'package:flutter/material.dart';
-import 'package:device_fatures/device_model.dart';
 
 void main() {
   runApp(const MainApp());
@@ -11,6 +9,6 @@ class MainApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(home: DeviceModel());
+    return MaterialApp(home:Scaffold(body: Container(),));
   }
 }
