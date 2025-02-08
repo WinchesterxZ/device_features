@@ -1,4 +1,3 @@
-import 'package:device_fatures/gallary_sceen.dart';
 import 'package:flutter/material.dart';
 import 'package:device_fatures/device_model.dart';
 
