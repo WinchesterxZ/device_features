@@ -1,3 +1,4 @@
+import 'package:device_fatures/audio_record_screen.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -9,6 +10,6 @@ class MainApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(home:Scaffold(body: Container(),));
+    return MaterialApp(home:Scaffold(body: AudioRecorderScreen()));
   }
 }

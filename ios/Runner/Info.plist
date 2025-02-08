@@ -28,11 +28,8 @@
 	<string>LaunchScreen</string>
 	<key>UIMainStoryboardFile</key>
 	<string>Main</string>
-	<key>NSPhotoLibraryUsageDescription</key>
-	<string>We need access to your photos</string>
-	<key>NSCameraUsageDescription</key>
-	<string>We need access to your camera</string>
-
+	<key>NSMicrophoneUsageDescription</key>
+	<string>We need microphone access to record audio</string>
 	<key>UISupportedInterfaceOrientations</key>
 	<array>
 		<string>UIInterfaceOrientationPortrait</string>
