@@ -44,7 +44,7 @@ The `lib/main.dart` file contains the Flutter code. It uses the `image_picker` p
 <p float="left">
   <img src="https://github.com/user-attachments/assets/26450503-00fc-4c30-b66b-f9944991fa02" width="200" />
   <img src="https://github.com/user-attachments/assets/7189c4d5-1f38-4b5a-8ac6-233a793c2c1f" width="200" /> 
-  <img src="https://github.com/user-attachments/assets/f4701cef-ba42-418c-b309-bcf6bf72151a" width="200" /> 
+  <img src="https://github.com/user-attachments/assets/907ef132-1ffa-4d3a-8930-ca841e1c5b5c" width="200" /> 
 </p>
 
 
